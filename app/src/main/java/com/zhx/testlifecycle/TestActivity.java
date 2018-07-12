@@ -5,6 +5,13 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+/**
+ * Name: MainActivity
+ * Author: zhouxue
+ * Email: 194093798@qq.com
+ * Comment: //TODO
+ * Date: 2018-07-12 12:57
+ */
 
 public class TestActivity extends Activity {
     @Override
